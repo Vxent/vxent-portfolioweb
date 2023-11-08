@@ -1,0 +1,57 @@
+.navbar {
+    background-color: #E0F6B2;
+}
+.logo {
+    padding-left: 10p;
+}
+.btn {
+    background-color: green;
+}
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    
+}
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h6 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    
+}
+.text {
+    position: relative;
+    left: 50px;
+    bottom: 5px;
+    margin: 10px;
+    display: inline-block;
+    
+    top: 60px;
+}
+.nav-item {
+    display: flex;
+    margin: 0;
+    align-items: center;
+    padding-right: 80px;
+  
+    
+}
+.bt1 {
+    position: relative;
+    left: 50px;
+    top: 80px;
+    margin: 0;
+    display: inline-block;
+    padding-left: 60px;
+    
+}
+.logo {
+    padding-left: 120px;
+}
+
